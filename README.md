@@ -3,7 +3,7 @@
 # Popovers Widget (Vanilla JS & Webpack)
 
 [![Build and Deploy to GitHub Pages](https://github.com/ivantr033/ahj-homeworks-forms/actions/workflows/webpack.yml/badge.svg)](https://github.com/ivantr033/ahj-homeworks-forms/actions/workflows/webpack.yml)
-🔗 **Demo en vivo:** [https://ivantr033.github.io/ahj-homeworks-forms/](https://ivantr033.github.io/ahj-homeworks-form/)
+🔗 **Demo en vivo:** [https://ivantr033.github.io/ahj-homeworks-forms/](https://ivantr033.github.io/ahj-homeworks-forms/)
 
 Implementación en JavaScript Vanilla de un widget interactivo de **Popovers** estilo Bootstrap (sin dependencias de jQuery ni Bootstrap JS). El widget se posiciona dinámicamente en píxeles sobre el elemento disparador y cuenta con pruebas unitarias/DOM desarrolladas sobre Jest.
 
